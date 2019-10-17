@@ -4,4 +4,5 @@ Maxient is a software system that manages behavior records on college campuses a
 - creating new client case files, 
 - sending appointment notification letters, and 
 - scheduling appointments. 
+
 Select the process you are trying to complete from the tabs above to receive a detailed description and workflow! 
